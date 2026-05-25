@@ -110,3 +110,4 @@ Email: contact@particelagency.com
 X (Twitter): https://x.com/Particel_agency  
 Instagram: https://www.instagram.com/Particel_agency/  
 Facebook: https://www.facebook.com/particel.agency/
+<meta name="google-site-verification" content="37Lx8YzVK4GC00EmuWdPDKBI4RjGrIR-PS5acWyBuI0" />
